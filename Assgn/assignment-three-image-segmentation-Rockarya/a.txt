@@ -1,0 +1,14 @@
+grave 
+Accuracy:  0.9426666666666667
+Jaccard Similarity:  0.6749742792953577
+Dice Similarity:  0.11906296296296297
+
+bush
+Accuracy:  0.7308074074074075
+Jaccard Similarity:  0.36746007571472084
+Dice Similarity:  0.15638148148148148
+
+flower
+Accuracy:  0.9477925925925926
+Jaccard Similarity:  0.7816976661349522
+Dice Similarity:  0.18694444444444444
